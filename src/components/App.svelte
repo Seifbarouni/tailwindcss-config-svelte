@@ -58,7 +58,7 @@
     class="flex-none absolute bottom-0  w-screen p-6 flex justify-between items-center"
   >
     <div
-      class="text-red-500 text-2xl cursor-pointer px-2 flex-1 hover:text-red-400"
+      class="text-red-500 text-xl cursor-pointer px-2 flex-1 hover:text-red-400"
     >
       Seif Barouni
     </div>
